@@ -1,0 +1,8 @@
+.header {
+  background-color: #009A49 !important;
+  text-align: left; }
+  .header .topBarRightText {
+    color: white;
+    display: inline-block;
+    padding-top: 13px;
+    vertical-align: top; }

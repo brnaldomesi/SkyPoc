@@ -1,0 +1,25 @@
+.date-time-input__dropdown-menu {
+  width: 400px;
+}
+
+.date-time-input__dropdown-toggle {
+  position: relative;
+  padding-right: 30px !important;
+}
+
+.date-time-input__dropdown-toggle:after {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.date-time-input__list-link {
+  font-size: 12px !important;
+  padding: 5px;
+  margin-left: 12px;
+}
+
+.date-time-input__dropdown-menu .btn-link {
+  cursor: pointer;
+}

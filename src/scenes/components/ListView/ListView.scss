@@ -1,0 +1,71 @@
+.listView {
+  .listView-header{
+    background-color: #f7f7f9;
+    padding-top: 10px;
+    .listView-filterContainer {
+      text-align: left;
+      background-color: #f7f7f9;
+
+      .listView-filterIcon {
+        position: absolute;
+        left: 20px;
+        width: 40px;
+        height: 40px;
+      }
+    }
+  }
+
+  .listView-container {
+    height: 525px;
+    width: 101%;
+    text-align: left
+  }
+
+  .listView-modal-container {
+    height: 525px;
+    width: 101%;
+    text-align: left;
+
+
+  }
+
+  .btn-add {
+    z-index: 1000000;
+  }
+}
+
+.close-img {
+  cursor: pointer;
+  float: right;
+  margin-top: -20px;
+  margin-right: -20px;
+  width: 20px;
+}
+
+.brace {
+  width: 2.15em;
+  height: 0.5em;
+  border-color: green;
+}
+
+.brace_part1 {
+  border-left: 2px solid green;
+  border-top-left-radius: 12px;
+  margin-left: 2em;
+}
+
+.brace_part2 {
+  border-right: 2px solid green;
+  border-bottom-right-radius: 12px;
+}
+
+.brace_part3 {
+  border-right: 2px solid green;
+  border-top-right-radius: 12px;
+}
+
+.brace_part4 {
+  border-left: 2px solid green;
+  border-bottom-left-radius: 12px;
+  margin-left: 2em;
+}
