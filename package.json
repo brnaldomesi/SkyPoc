@@ -8,7 +8,7 @@
     "ag-grid-react": "^17.1.0",
     "ajv": "^6.4.0",
     "axios": "^0.18.0",
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "history": "^4.7.2",
     "husky": "^0.14.3",
     "flexbox": "0.0.3",
