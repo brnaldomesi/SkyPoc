@@ -7,7 +7,7 @@
     "ag-grid-enterprise": "^17.1.1",
     "ag-grid-react": "^17.1.0",
     "ajv": "^6.4.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.0",
     "history": "^4.7.2",
     "husky": "^0.14.3",
