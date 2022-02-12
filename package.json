@@ -6,7 +6,7 @@
     "ag-grid": "^17.1.1",
     "ag-grid-enterprise": "^17.1.1",
     "ag-grid-react": "^17.1.0",
-    "ajv": "^6.4.0",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.0",
     "history": "^4.7.2",
